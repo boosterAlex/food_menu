@@ -20,3 +20,16 @@
         opacity: 1;
     }
 }
+.status {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+progress {
+    display: flex;
+    justify-content: center;
+}
+.spinner {
+    display: block;
+    margin: 0 auto;
+}
